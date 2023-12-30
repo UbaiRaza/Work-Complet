@@ -1,0 +1,55 @@
+.vfdvdsfvdzfx {
+   
+    height: 70% !important;
+    width: 100%;
+    background-image: url('../../assets/img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid #000;
+    /* Add a border for visualization */
+}
+.Text{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* margin-bottom: 14%; */
+    margin-top: 16%;
+    /* padding-top: 14px; */
+
+}
+.b {
+    color: #000;
+    height: 70% !important;
+    width: 100%;
+    background-image: url('../../assets/img/bg-masthead.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.inp {
+    height: 30%;
+    margin-bottom: 14%;
+    padding-top: 14px;
+    
+    font-size: x-large;
+    color: #000;
+    width: 30%;
+    margin-left: 12%;
+}
+
+.d {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    height: 30% !important;
+    margin-bottom: 14%;
+    padding-top: 14px;
+    font-size: xx-large;
+    color: #000;
+    /* width: 30%; */
+}
